@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">document-scanner-test</string>
+    <string name="permission_location_access_required">Chức năng này yêu cầu truy cập máy ảnh của bạn, vui lòng cho phép!</string>
+    <string name="mandatory_permission_location_access_required">Chức năng này yêu cầu truy cập máy ảnh của bạn, vui lòng cho phép trong cài đặt!</string>
+    <string name="accept">Đồng ý</string>
+    <string name="allow_permission">Cho phép</string>
+    <string name="deny_permission">Từ chối</string>
+</resources>
